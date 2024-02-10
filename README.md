@@ -1,13 +1,17 @@
-# The Damai — Hotel Resort Lovina, Bali
+# The Damai – Hotel Resort Lovina, Bali
 
-### DESIGN & CODE
-Dennis Snellenberg
+## Credits
+- **Design & Code**: Dennis Snellenberg
+- **Design**: Christy Lammerink
+- **Design**: Tom de Koning
+- **Photography**: Niké Schuurmans
 
-### DESIGN
-Christy Lammerink
+---
 
-### DESIGN
-Tom de Koning
+Greetings,
 
-### PHOTOGRAPHY
-Niké Schuurmans
+I present to you my rendition of The Damai – Hotel Resort Lovina, Bali website. In striving for excellence, I utilized a range of technologies including HTML, CSS, JavaScript, GSAP, Lenis, and Swiper.
+visit it live [here](https://oliverfelix1453.github.io/TheDamai-HotelResortLovina-Bali/) :  
+
+Best regards,
+[Oliver Felix]
